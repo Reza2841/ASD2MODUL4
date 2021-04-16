@@ -1,6 +1,6 @@
 package tugas4;
 import java.util.Scanner;
-public class nomer6 {
+public class nomer7 {
     
     public static void printData(int[] data){
         for (int i=0; i<data.length; i++){
